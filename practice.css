@@ -1,0 +1,24 @@
+h1,h2{
+    color: red;
+    text-decoration: underline wavy red;
+}
+
+section{
+    font-weight: bold;
+    display: inline-block;
+    border: 2px solid black;
+    width: 200px;
+    margin: 10px;
+    background-color: chartreuse;
+    padding: 10px 20px;
+
+    color: red;
+
+
+}
+
+.table td,tr{
+    border: 1px solid black;
+
+
+}

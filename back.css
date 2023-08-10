@@ -1,0 +1,22 @@
+section{
+    width: 80%;
+    height: 800px;
+    background-image: url(https://previews.123rf.com/images/mrspopman/mrspopman1610/mrspopman161000044/68130129-abstract-splatter-color-background-illustration-vector-design.jpg) ;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 130px;
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+    ;
+}
+h3{
+    font-size: 80px;
+}
+h4{
+    font-size: 70px;
+}
